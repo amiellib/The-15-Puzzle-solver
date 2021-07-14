@@ -1,0 +1,9 @@
+DFID
+with time
+with open
+3x4
+Black: 7
+Red:
+1,2,3,4
+5,8,7,6
+11,10,9,_
