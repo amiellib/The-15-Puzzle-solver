@@ -86,4 +86,4 @@ You can look in the input file and see how it looks
 
 All tiles that are not black or red the cost of moving them is 1.
 
-A tile can move up or down or left or right.
+A tile can move up, down, left or right.
